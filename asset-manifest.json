@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.620c88ce.css",
+    "main.js": "/static/js/main.273e5d62.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/CCS_logo.png": "/static/media/CCS_logo.bb0375406b6c5dab7079.png",
+    "static/media/CMU_logo.png": "/static/media/CMU_logo.9509a933efe507f10276.png",
+    "static/media/CCS_logo2.png": "/static/media/CCS_logo2.5880dbe7e6be7feab86c.png",
+    "static/media/Jiangsu_logo.png": "/static/media/Jiangsu_logo.1b33a4e29112a5077450.png",
+    "static/media/Murata_logo.png": "/static/media/Murata_logo.dff17a4e01ca4658896c.png",
+    "index.html": "/index.html",
+    "main.620c88ce.css.map": "/static/css/main.620c88ce.css.map",
+    "main.273e5d62.js.map": "/static/js/main.273e5d62.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620c88ce.css",
+    "static/js/main.273e5d62.js"
+  ]
+}
